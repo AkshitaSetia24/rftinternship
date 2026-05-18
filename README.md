@@ -24,3 +24,15 @@ It demonstrates map-based lookup and real-world object modeling by storing produ
 - Low Stock Alert (for quantity < 5)
 // Run:
 JAVA Day10.java
+DAY 11
+// Description:
+This project is a simple Java-based Text Analyzer that reads data from a file (input.txt) and performs basic text analysis operations. It uses BufferedReader for file handling and HashMap for counting word frequency.
+//Features:
+✅ Count number of lines
+✅ Count total words
+✅ Find most frequent word
+✅ Find longest word
+✅ Case-insensitive processing
+✅ Removes punctuation
+// Run:
+JAVA Day11.java
