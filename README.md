@@ -48,5 +48,18 @@ The main goal of this project is to demonstrate file handling, data parsing, and
 - Saves the generated report to a file (report.txt)
 -  Handles invalid or incorrect rows safely
 - Simple and beginner-friendly implementation
-- // Run:
-- JAVA Day12.java
+ // Run:
+JAVA Day12.java
+DAY 13
+// Description:
+The Log Monitoring System is a simple Java-based application that reads a log file and analyzes its contents. It identifies different types of log messages such as ERROR, INFO, and WARNING, counts their occurrences, and displays meaningful insights like the most frequent log type and all error messages.
+This project demonstrates basic file handling, string processing, and logical analysis in Java, making it useful for beginners to understand how real-world systems monitor and manage logs.
+// Features:
+🔹 Reads log data from a text file using Scanner
+🔹 Counts occurrences of different log types (ERROR, INFO, WARNING)
+🔹 Identifies the most frequent log type
+🔹 Displays all ERROR messages separately
+🔹 Simple and beginner-friendly implementation
+🔹 Uses core Java concepts (loops, conditions, ArrayList)
+// Run:
+JAVA Day13.java
