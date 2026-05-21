@@ -63,3 +63,14 @@ This project demonstrates basic file handling, string processing, and logical an
 🔹 Uses core Java concepts (loops, conditions, ArrayList)
 // Run:
 JAVA Day13.java
+DAY 14
+// Description:
+This project is a simple File-Based Search Engine developed in Java using the Scanner class. It allows users to search for a specific word inside a text file and displays the number of occurrences along with the line numbers where the word is found.
+// Features:
+  - Read data from a file using Scanner
+  -Search for a word (case-insensitive)
+  -Count total occurrences of the word
+  -Display line numbers where the word appears
+  -Simple and beginner-friendly implementation
+// Run:
+JAVA Day14.java
