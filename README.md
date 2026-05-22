@@ -74,3 +74,15 @@ This project is a simple File-Based Search Engine developed in Java using the Sc
   -Simple and beginner-friendly implementation
 // Run:
 JAVA Day14.java
+DAY 15
+// Description:
+A Java-based Data Filter & Export Tool that reads CSV/TXT data, applies dynamic filtering conditions, sorts results, and exports filtered data to a new file using File I/O and Collections.
+// Features:
+✅ Read data from CSV/TXT file
+✅ Store data using ArrayList (Collections)
+✅ Apply dynamic filters (user input)
+✅ Multiple conditions (salary, age)
+✅ Sort filtered data (high → low salary)
+✅ Export results to new file using PrintWriter
+// Run :
+JAVA Day15.java
