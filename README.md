@@ -1,5 +1,21 @@
 # rftinternship
 java internship
+DAY 1
+// Description:
+This project is a simple Java program that reverses a given string without using any built-in reverse functions like StringBuilder.reverse().
+The program takes input from the user, converts the string into a character array, and then swaps characters from both ends to produce the reversed string.
+This project helps in understanding:
+Array manipulation
+Loop logic
+Basic string handling in Java
+// Features:
+✅ Takes user input using Scanner
+✅ Converts string into character array
+✅ Reverses string using swapping logic
+✅ Does not use any built-in reverse method
+✅ Displays the reversed string output
+// Run:
+JAVA Day1.java
 DAY 9
 // Description:
 A simple Java project to sort students by marks, assign ranks, handle ties, and display top 3 students.
