@@ -16,6 +16,23 @@ Basic string handling in Java
 ✅ Displays the reversed string output
 // Run:
 JAVA Day1.java
+DAY 2
+// Description:
+This project is a Java-based command-line calculator that performs operations based on user input commands.
+The program follows Object-Oriented Programming (OOP) principles by separating logic into different classes such as Calculator and CommandProcessor.
+Users can enter commands like ADD, SUB, MUL, etc., followed by numbers, and the program processes the input to return the correct result.
+// Features:
+✅ Command-based input (e.g., ADD 10 20)
+✅ Supports basic operations:
+Addition
+Subtraction
+Multiplication
+✅ Clean OOP structure using multiple classes
+✅ Parses user input dynamically
+✅ Executes correct operation based on command
+✅ Easy to extend with new operations
+// Run:
+JAVA Day2.java
 DAY 9
 // Description:
 A simple Java project to sort students by marks, assign ranks, handle ties, and display top 3 students.
