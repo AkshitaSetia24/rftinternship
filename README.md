@@ -119,3 +119,22 @@ A Java-based Data Filter & Export Tool that reads CSV/TXT data, applies dynamic 
 ✅ Export results to new file using PrintWriter
 // Run :
 JAVA Day15.java
+DAY 16
+// Description:
+The Multi-Threaded Number Printer is a Java-based project that demonstrates the concept of multithreading and basic concurrency.
+In this project, two separate threads are created to print odd and even numbers simultaneously up to a user-defined limit.
+The program showcases how multiple threads can run independently and execute tasks in parallel, resulting in an interleaved output. It also uses Thread.sleep() to control execution speed and improve the visibility of concurrent behavior.
+This project is ideal for beginners to understand how threads work in Java and how concurrency is handled in real-time applications.
+// Features:
+✅ Multithreading Implementation using Thread / Runnable
+✅ Two Parallel Threads
+Thread 1 → Prints Even Numbers
+Thread 2 → Prints Odd Numbers
+✅ User Input Support (custom limit)
+✅ Concurrent Execution (interleaved output)
+✅ Thread Control using sleep()
+✅ Thread Synchronization using join()
+✅ Clean and easy-to-understand code structure
+✅ Beginner-friendly project for learning Java concurrency
+// Run:
+JAVA Day16.java
