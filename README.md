@@ -138,3 +138,25 @@ Thread 2 → Prints Odd Numbers
 ✅ Beginner-friendly project for learning Java concurrency
 // Run:
 JAVA Day16.java
+DAY 17
+// Description:
+The Task Scheduler System is a Java-based console application designed to execute tasks after a specified delay. This project demonstrates the use of multithreading and time-based execution using Java’s ScheduledExecutorService.
+Users can add tasks that will automatically run after a defined number of seconds. The system efficiently manages multiple tasks concurrently without blocking the main program.
+In addition, the application includes advanced features such as repeating tasks (similar to alarms) and the ability to cancel scheduled tasks, making it a practical simulation of real-world scheduling systems like reminders, background jobs, and automation tools.
+// Features:
+- Add Task with Delay
+Schedule tasks to execute after a specific time delay.
+- Automatic Time-Based Execution
+Tasks run automatically once the defined delay is completed.
+- Repeating Tasks (Bonus Feature)
+Schedule tasks to run repeatedly at fixed intervals (like an alarm system).
+- Cancel Scheduled Tasks (Bonus Feature)
+Cancel any task before it gets executed using its unique ID.
+- Multithreading Support
+Handles multiple tasks simultaneously using a thread pool.
+- Task Identification System
+Each task is assigned a unique ID for easy tracking and management.
+- User-Friendly Console Interface
+Simple and interactive menu-driven program for ease of use.
+// Run:
+JAVA Day17.java
