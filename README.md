@@ -160,3 +160,21 @@ Each task is assigned a unique ID for easy tracking and management.
 Simple and interactive menu-driven program for ease of use.
 // Run:
 JAVA Day17.java
+DAY 18
+// Description:
+This project demonstrates the Producer-Consumer Problem using Java Multithreading.
+It simulates a real-world scenario where a Producer thread generates data and adds it to a shared buffer, while a Consumer thread retrieves and processes the data.
+The implementation uses synchronization techniques like wait() and notifyAll() to manage thread coordination and ensure safe access to shared resources.
+The program also includes buffer size limitation and properly handles full and empty states, making it a complete simulation of thread communication.
+// Features:
+🔹 Implementation of Producer-Consumer problem
+🔹 Uses Multithreading (Thread class)
+🔹 Synchronized methods for thread safety
+🔹 Uses wait() and notifyAll() for communication
+🔹 Shared resource using Queue (LinkedList)
+🔹 Buffer size limit (Bonus feature)
+🔹 Handles Buffer Full & Empty conditions
+🔹 Controlled execution (program stops automatically)
+🔹 Clean and easy-to-understand code
+// Run:
+JAVA Day18.java
