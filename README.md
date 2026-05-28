@@ -178,3 +178,15 @@ The program also includes buffer size limitation and properly handles full and e
 🔹 Clean and easy-to-understand code
 // Run:
 JAVA Day18.java
+DAY 19
+// Description:
+This project is a simple Chat Message Simulator built using Java. It uses multithreading to simulate multiple users sending messages at the same time. Messages are displayed in real-time and stored for later use.
+// Features:
+👥 Multiple users using threads
+⏱️ Real-time message simulation
+💬 Messages displayed instantly
+📜 Chat history storage (Bonus)
+🔍 Filter messages by user (Bonus)
+🔒 Thread-safe message handling
+// Run:
+JAVA Day19.java
