@@ -190,3 +190,17 @@ This project is a simple Chat Message Simulator built using Java. It uses multit
 🔒 Thread-safe message handling
 // Run:
 JAVA Day19.java
+DAY 20
+// Description:
+This project simulates a basic backend server using Java, where multiple client requests are handled concurrently using a Thread Pool. Each request is processed by a separate thread, just like real-world servers.
+The system demonstrates how servers manage multiple users efficiently by limiting threads and queuing extra requests.
+This project is part of a Java Internship (Day 20) and focuses on real-world backend concepts like concurrency, request handling, and thread management.
+// Features:
+✅ Simulates multiple client requests
+✅ Each request handled by a separate thread
+✅ Displays:
+Request ID
+Processing time
+✅ Random processing delay (to mimic real server behavior)
+// Run:
+JAVA Day20.java
