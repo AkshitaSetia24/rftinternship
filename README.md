@@ -82,6 +82,20 @@ Identify the most expensive transaction
 View total spending grouped by month
 // Run:
 JAVA Day5.java
+DAY 6
+// Description:
+The Contact Manager System is a Java-based console application that allows users to store and manage contacts efficiently. This project demonstrates key programming concepts such as Dynamic Lists (ArrayList), Object Storage, and Searching techniques.
+Users can add, view, search, and delete contacts, making it a simple yet practical real-world application for managing personal data.
+// Features:
+➕ Add new contacts (Name, Phone)
+📋 Display all saved contacts
+🔍 Search contacts by name
+❌ Delete Contact
+Remove a contact from the list
+🔍 Case-Insensitive Search
+Search contacts without worrying about uppercase/lowercase
+// Run:
+JAVA Day6.java
 DAY 9
 // Description:
 A simple Java project to sort students by marks, assign ranks, handle ties, and display top 3 students.
