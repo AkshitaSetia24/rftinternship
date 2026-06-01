@@ -45,6 +45,27 @@ The project is designed using Object-Oriented Programming (OOP) principles, maki
 🎯 Score calculation
 // Run:
 JAVA Day3.java
+DAY 4
+// Description:
+This project is a simple Smart Home Device Controller built using Java. It demonstrates core Object-Oriented Programming (OOP) concepts such as Abstraction and Method Overriding by simulating real-world home devices like Light, Fan, and Air Conditioner (AC).
+Each device can be turned ON/OFF and can display its current status. Additional bonus features include fan speed control and AC temperature adjustment, making the system more realistic and interactive.
+// Features:
+🔹 Core Features
+Abstract base class Device
+Derived classes:
+💡 Light
+🌀 Fan
+❄️ AC
+Common functionalities:
+Turn ON devices
+Turn OFF devices
+Display device status
+🌡️ AC Temperature Control
+Set and adjust temperature dynamically
+🌀 Fan Speed Control
+Multiple speed levels (0–5)
+// Run:
+JAVA Day4.java
 DAY 9
 // Description:
 A simple Java project to sort students by marks, assign ranks, handle ties, and display top 3 students.
