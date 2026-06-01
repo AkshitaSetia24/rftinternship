@@ -96,6 +96,22 @@ Remove a contact from the list
 Search contacts without worrying about uppercase/lowercase
 // Run:
 JAVA Day6.java
+DAY 7
+// Description:
+The Word Frequency Counter is a Java-based console application that analyzes a sentence and counts how many times each word appears.
+This updated version not only calculates word frequencies using HashMap, but also correctly identifies all the most frequent words (in case of ties), making it more accurate and practical for real-world text analysis.
+// Features:
+📝 Accept user input (sentence)
+🔢 Count frequency of each word
+📋 Display all words with their counts
+🔍 Case-Insensitive Processing
+Treats "Java" and "java" as the same word
+🏆 Multiple Most Frequent Words Detection
+Displays all words having the highest frequency
+⚡ Optimized Logic using Collections.max()
+Efficient way to find maximum frequency
+// Run:
+JAVA Day7.java
 DAY 9
 // Description:
 A simple Java project to sort students by marks, assign ranks, handle ties, and display top 3 students.
