@@ -112,6 +112,22 @@ Displays all words having the highest frequency
 Efficient way to find maximum frequency
 // Run:
 JAVA Day7.java
+DAY 8
+// Description:
+The Expense Tracker System is a Java-based program that demonstrates how to manage user data efficiently using the Set (HashSet) data structure.
+The main goal of this project is to store only unique user IDs from a given list and remove duplicates automatically. It also counts duplicate entries as a bonus feature.
+This project highlights the importance of Set behavior in Java and how it can be used in real-world scenarios like tracking unique visitors or users.
+// Features:
+📥 Accept a list of user IDs
+🚫 Automatically remove duplicate entries
+👥 Store only unique users using HashSet
+📊 Display total number of unique visitors
+🔁 Duplicate Entries Counter
+Counts how many duplicate IDs were present
+📋 Display Unique Users List
+Shows final filtered set of users
+// Run:
+JAVA Day8.java
 DAY 9
 // Description:
 A simple Java project to sort students by marks, assign ranks, handle ties, and display top 3 students.
