@@ -66,6 +66,22 @@ Set and adjust temperature dynamically
 Multiple speed levels (0–5)
 // Run:
 JAVA Day4.java
+DAY 5
+// Description:
+The Expense Tracker System is a Java-based application designed to manage and analyze daily expenses efficiently. This project demonstrates important Object-Oriented Programming (OOP) concepts such as Multiple Classes, Object Lists, and Data Aggregation.
+Users can add expenses with details like amount, category, and date, and perform operations like viewing all expenses, calculating total spending, and analyzing financial data through advanced features.
+// Features:
+➕ Add new expenses (amount, category, date)
+📋 View all recorded expenses
+💸 Calculate total spending
+📊 Category-wise Spending
+Track how much is spent in each category
+💰 Highest Expense
+Identify the most expensive transaction
+📅 Monthly Summary
+View total spending grouped by month
+// Run:
+JAVA Day5.java
 DAY 9
 // Description:
 A simple Java project to sort students by marks, assign ranks, handle ties, and display top 3 students.
