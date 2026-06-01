@@ -33,6 +33,18 @@ Multiplication
 ✅ Easy to extend with new operations
 // Run:
 JAVA Day2.java
+DAY 3
+// Description:
+This is a console-based Quiz Application developed in Java that allows users to attempt multiple-choice questions interactively. The application provides instant feedback, calculates the final score and percentage, and also displays a detailed review of all answers at the end.
+The project is designed using Object-Oriented Programming (OOP) principles, making it modular, readable, and easy to extend with advanced features.
+// Features:
+📌 Multiple-choice questions (MCQs)
+🔀 Randomized question order using Collections.shuffle()
+⌨️ User input via console
+⚡ Instant feedback (Correct / Wrong)
+🎯 Score calculation
+// Run:
+JAVA Day3.java
 DAY 9
 // Description:
 A simple Java project to sort students by marks, assign ranks, handle ties, and display top 3 students.
