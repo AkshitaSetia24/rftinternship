@@ -376,3 +376,18 @@ A simple Online Quiz & Assessment System built using Core Java and Object-Orient
 - 🔄 Simple menu-driven interface
 // Run:
 JAVA Day25.java
+DAY 26
+// Description:
+A simple Vehicle Service Center Management System built using Core Java and Object-Oriented Programming (OOP). This project helps manage customer details, vehicle information, service scheduling, technician details, invoices, and service history.
+// Features:
+- 👤 Register customers
+- 🚗 Add vehicle details
+- 🔧 Schedule vehicle services
+- 👨‍🔧 Manage technician details
+- 🧾 Generate service invoices
+- 📋 View service history
+- 💾 Store records using ArrayList
+- 🏗️ Uses Object-Oriented Programming concepts
+- 🔄 Simple menu-driven interface
+// Run:
+JAVA Day26.java
