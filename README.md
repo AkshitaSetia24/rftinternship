@@ -391,3 +391,20 @@ A simple Vehicle Service Center Management System built using Core Java and Obje
 - 🔄 Simple menu-driven interface
 // Run:
 JAVA Day26.java
+DAY 27
+// Description:
+A simple Digital Banking Dashboard built using Core Java and Object-Oriented Programming (OOP). This project simulates basic banking operations such as customer registration, account management, fund transfer, and transaction tracking.
+// Features:
+- Customer Registration
+- Account Management
+- Deposit Money
+- Withdraw Money
+- Fund Transfer
+- Mini Statement
+- Transaction History
+- Account Summary
+- Store customer and transaction records using ArrayList
+- Simple menu-driven interface
+- Uses Object-Oriented Programming concepts
+// Run:
+JAVA Day27.java
