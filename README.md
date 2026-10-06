@@ -440,3 +440,21 @@ A simple Employee Leave Management System built using Core Java and Object-Orien
 - Uses Object-Oriented Programming concepts
 // Run:
 JAVA Day29.java
+DAY 30
+// Description:
+A simple Course Registration & Enrollment System built using Core Java and Object-Oriented Programming (OOP). This project manages student registration, course creation, student enrollment, course dropping, and enrollment records through a simple menu-driven system.
+// Features:
+- Student Registration
+- Course Creation
+- Enroll Students into Courses
+- Drop a Course
+- Display Enrolled Courses
+- Generate Enrollment Summary
+- Display Available Courses
+- Course Capacity Management
+- Prevent Duplicate Enrollment
+- Store records using ArrayList
+- Simple menu-driven interface
+- Uses Object-Oriented Programming concepts
+// Run:
+JAVA Day30.java
