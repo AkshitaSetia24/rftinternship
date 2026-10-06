@@ -408,3 +408,18 @@ A simple Digital Banking Dashboard built using Core Java and Object-Oriented Pro
 - Uses Object-Oriented Programming concepts
 // Run:
 JAVA Day27.java
+DAY 28
+// Description:
+A simple Gym Membership Management System built using Core Java and Object-Oriented Programming (OOP). This project helps manage gym members, membership plans, attendance, membership bills, and renewal details through a simple menu-driven system.
+// Features:
+- 👤 Register new members
+- 🏋️ Manage membership plans
+- 📅 Track member attendance
+- 💰 Generate membership bills
+- 🔄 Manage membership renewals
+- 📋 Display member records
+- 💾 Store member records using ArrayList
+- 🏗️ Uses Object-Oriented Programming concepts
+- 🔄 Simple menu-driven interface
+// Run:
+JAVA Day28.java
