@@ -299,3 +299,17 @@ Processing time
 ✅ Random processing delay (to mimic real server behavior)
 // Run:
 JAVA Day20.java
+DAY 21
+// Description:
+A simple Student Management System built using Core Java, OOP concepts, and ArrayList. This project allows users to add, search, update, delete, and display student records through a simple menu-driven program.
+// Features:
+➕ Add new student
+🔍 Search student by ID
+✏️ Update student details
+❌ Delete student record
+📋 Display all students
+💾 Store student records using ArrayList
+🏗️ Uses Java OOP concepts
+🔄 Simple menu-driven interface
+// Run:
+JAVA Day21.java
