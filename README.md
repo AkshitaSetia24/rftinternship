@@ -360,3 +360,19 @@ A simple Online Shopping Cart System built using Core Java and Object-Oriented P
 - 🔄 Simple menu-driven interface
 // Run:
 JAVA Day24.java
+DAY 25
+// Description:
+A simple Online Quiz & Assessment System built using Core Java and Object-Oriented Programming (OOP). This project allows students to take a quiz, answer multiple-choice questions, evaluate their answers, calculate scores, and generate a result summary.
+// Features:
+- 👨‍🎓 Add student details
+- ❓ Add quiz questions
+- ▶️ Start the quiz
+- ✅ Evaluate answers automatically
+- 📊 Calculate and display score
+- 📋 Generate result summary
+- 🏆 Display Pass/Fail result
+- 💾 Store questions using ArrayList
+- 🏗️ Uses Object-Oriented Programming concepts
+- 🔄 Simple menu-driven interface
+// Run:
+JAVA Day25.java
