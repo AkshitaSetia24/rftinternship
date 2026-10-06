@@ -344,3 +344,19 @@ A simple Hotel Reservation System built using Core Java and Object-Oriented Prog
 - 🔄 Simple menu-driven interface
 // Run:
 JAVA Day23.java
+DAY 24
+// Description:
+A simple Online Shopping Cart System built using Core Java and Object-Oriented Programming (OOP). This project allows customers to view products, add products to a cart, remove products, update quantities, calculate the total bill, and generate an invoice.
+// Features:
+- 🛍️ Display available products
+- ➕ Add products to cart
+- ❌ Remove products from cart
+- 🔢 Update product quantity
+- 💰 Calculate total bill
+- 🧾 Generate invoice
+- 👤 Store customer details
+- 💾 Store cart products using ArrayList
+- 🏗️ Uses Object-Oriented Programming concepts
+- 🔄 Simple menu-driven interface
+// Run:
+JAVA Day24.java
