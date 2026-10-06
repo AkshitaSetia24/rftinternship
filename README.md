@@ -423,3 +423,20 @@ A simple Gym Membership Management System built using Core Java and Object-Orien
 - 🔄 Simple menu-driven interface
 // Run:
 JAVA Day28.java
+DAY 29
+// Description:
+A simple Employee Leave Management System built using Core Java and Object-Oriented Programming (OOP). This project helps manage employee details, leave applications, approvals, rejections, leave balances, and leave history through a simple menu-driven system.
+// Features:
+- Employee Registration
+- Apply for Leave
+- Approve Leave Requests
+- Reject Leave Requests
+- View Leave History
+- View Employee Leave Balance
+- Generate Leave Report
+- Automatic Leave Balance Calculation
+- Store employee and leave records using ArrayList
+- Simple menu-driven interface
+- Uses Object-Oriented Programming concepts
+// Run:
+JAVA Day29.java
