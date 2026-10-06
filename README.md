@@ -313,3 +313,18 @@ A simple Student Management System built using Core Java, OOP concepts, and Arra
 🔄 Simple menu-driven interface
 // Run:
 JAVA Day21.java
+DAY 22
+// Description:
+A simple Library Management System built using Core Java and Object-Oriented Programming (OOP). This project allows users to manage books by adding, issuing, returning, searching, and displaying book records through a menu-driven interface.
+// Features:
+📚 Add new books
+📖 Issue books
+🔄 Return books
+🔍 Search books by ID
+📋 Display available books
+📕 Display issued books
+💾 Store book records using ArrayList
+🏗️ Uses Object-Oriented Programming concepts
+🔄 Simple menu-driven interface
+// Run:
+JAVA Day22.java
