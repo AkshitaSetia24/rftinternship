@@ -328,3 +328,19 @@ A simple Library Management System built using Core Java and Object-Oriented Pro
 🔄 Simple menu-driven interface
 // Run:
 JAVA Day22.java
+DAY 23
+// Description:
+A simple Hotel Reservation System built using Core Java and Object-Oriented Programming (OOP). This project allows users to check room availability, book rooms, check-in, check-out, and generate a simple bill through a menu-driven interface.
+// Features:
+- Manage hotel rooms
+- 🛏️ Book a room
+- 👤 Add customer details
+- 🔍 Check room availability
+- ✅ Check-in
+- 🚪 Check-out
+- 💰 Generate hotel bill
+- 💾 Store bookings using ArrayList
+- 🏗️ Uses Object-Oriented Programming concepts
+- 🔄 Simple menu-driven interface
+// Run:
+JAVA Day23.java
